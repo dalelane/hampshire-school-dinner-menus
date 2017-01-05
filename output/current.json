@@ -1,0 +1,200 @@
+{
+    "primary" : {
+        "range" : [ 1477872000000, 1491609600000 ],
+        "dates" : {
+            "week1" : [
+                [ 1477872000000, 1478304000000 ],
+                [ 1479686400000, 1480118400000 ],
+                [ 1481500800000, 1481932800000 ],
+                [ 1484524800000, 1484956800000 ],
+                [ 1486339200000, 1486771200000 ],
+                [ 1488758400000, 1489190400000 ],
+                [ 1490572800000, 1491004800000 ]
+            ],
+            "week2" : [
+                [ 1478476800000, 1478908800000 ],
+                [ 1480291200000, 1480723200000 ],
+                [ 1483315200000, 1483747200000 ],
+                [ 1485129600000, 1485561600000 ],
+                [ 1486944000000, 1487376000000 ],
+                [ 1489363200000, 1489795200000 ],
+                [ 1491177600000, 1491609600000 ]
+            ],
+            "week3" : [
+                [ 1479081600000, 1479513600000 ],
+                [ 1480896000000, 1481328000000 ],
+                [ 1483920000000, 1484352000000 ],
+                [ 1485734400000, 1486166400000 ],
+                [ 1488153600000, 1488585600000 ],
+                [ 1489968000000, 1490400000000 ]
+            ]
+        },
+        "menu" : {
+            "week1" : {
+                "monday" : {
+                    "meat" : "Moroccan chicken. Rice. Broccoli and salad. Oatmeal cookie.",
+                    "non-meat" : "Vegetarian sausages and gravy. Diced potato. Broccoli and salad. Oatmeal cookie."
+                },
+                "tuesday" : {
+                    "meat" : "Beef roast with Yorkshire pudding and gravy. Dry roast potatoes. Cabbage, carrots and salad. Mixed cold desserts.",
+                    "non-meat" : "Quorn burger and Yorkshire pudding and gravy. Dry roast potatoes. Cabbage, carrots and salad. Mixed cold desserts"
+                },
+                "wednesday" : {
+                    "meat" : "Beef meatballs and gravy. Pasta. Broccoli and salad. Banana flapjack",
+                    "non-meat" : "Pizza. Sweetcorn and salad. Banana flapjack"
+                },
+                "thursday" : {
+                    "meat" : "Pork roast and gravy. Dry roast potatoes. Broccoli, cauliflower and carrot mix and salad. Mixed cold desserts.",
+                    "non-meat" : "Bean and cheese Yorkie. Dry roast potatoes. Broccoli, cauliflower and carrot mix and salad. Mixed cold desserts."
+                },
+                "friday" : {
+                    "meat" : "Baked fish fingers and tomato ketchup. Chipped potatoes. Baked beans and salad. Chocolate cherry muffin.",
+                    "non-meat" : "Neapolitan pasta. Garden peas and salad. Chocolate cherry muffin."
+                }
+            },
+            "week2" : {
+                "monday" : {
+                    "meat" : "Baked pork sausages. Mashed potatoes. Baked beans and salad. Ice cream",
+                    "non-meat" : "Macaroni cheese. Garden peas and salad. Ice cream"
+                },
+                "tuesday" : {
+                    "meat" : "Chicken roast and gravy. Dry roast potatoes. Broccoli, cauliflower and carrot mix and salad. Mixed cold desserts.",
+                    "non-meat" : "Vegetable and bean bake and gravy. Dry roast potatoes. Broccoli, cauliflower and carrot mix and salad. Mixed cold desserts"
+                },
+                "wednesday" : {
+                    "meat" : "Salmon and haddock slice. Potato wedges. Garden peas and sweetcorn medley and salad. Fruit crumble slice and low sugar custard",
+                    "non-meat" : "Pizza. Garden peas and sweetcorn medley and salad. Fruit crumble slice and low sugar custard."
+                },
+                "thursday" : {
+                    "meat" : "Beef roast with Yorkshire pudding and gravy. Dry roast potatoes. Swede and carrots and salad. Mixed cold desserts",
+                    "non-meat" : "Sweet potato and lentil curry. Rice. Green beans and salad. Mixed cold desserts"
+                },
+                "friday" : {
+                    "meat" : "Battered fish and tomato ketchup. Chipped potatoes. Garden peas and salad. Iced fruit bread.",
+                    "non-meat" : "Vegetarian quorn pasty. Chipped potatoes. Garden peas and salad. Iced fruit bread."
+                }
+            },
+            "week3" : {
+                "monday" : {
+                    "meat" : "Southern coated chicken goujons. Herb diced potatoes. Garden peas and sweetcorn medley and salad. Chocolate sponge and chocolate custard.",
+                    "non-meat" : "Cheese and vegetable bake. Herb diced potatoes. Garden peas and sweetcorn medley and salad. Chocolate sponge and chocolate custard."
+                },
+                "tuesday" : {
+                    "meat" : "Pork roast and gravy. Dry roast potatoes. Cabbage and carrots and salad. Mixed cold desserts.",
+                    "non-meat" : "Vegetarian toad in the hole and gravy. Dry roast potatoes. Cabbage and carrots and salad. Mixed cold desserts."
+                },
+                "wednesday" : {
+                    "meat" : "Mild beef madras curry. Naan bread, Rice. Broccoli and salad. Orange cookie.",
+                    "non-meat" : "Pizza. Broccoli and salad. Orange cookie."
+                },
+                "thursday" : {
+                    "meat" : "Chicken roast and gravy. Dry roast potatoes. Broccoli, cauliflower and carrot mix and salad. Mixed cold desserts.",
+                    "non-meat" : "Vegetarian sausage puff and gravy. Dry roast potatoes. Broccoli, cauliflower and carrot mix and salad. Mixed cold desserts."
+                },
+                "friday" : {
+                    "meat" : "Baked fish fingers and tomato ketchup. Chipped potatoes. Garden peas and salad. Tutti fruiti sponge.",
+                    "non-meat" : "Tomato bean gratin. Sweetcorn and salad. Tutti fruiti sponge."
+                }
+            }
+        }
+    },
+    "secondary" : {
+        "range" : [ 1477872000000, 1491609600000 ],
+        "dates" : {
+            "week1" : [
+                [ 1479081600000, 1479513600000 ],
+                [ 1480896000000, 1481328000000 ],
+                [ 1483920000000, 1484352000000 ],
+                [ 1485734400000, 1486166400000 ],
+                [ 1488153600000, 1488585600000 ],
+                [ 1489968000000, 1490400000000 ]
+            ],
+            "week2" : [
+                [ 1477872000000, 1478304000000 ],
+                [ 1479686400000, 1480118400000 ],
+                [ 1481500800000, 1481932800000 ],
+                [ 1484524800000, 1484956800000 ],
+                [ 1486339200000, 1486771200000 ],
+                [ 1488758400000, 1489190400000 ],
+                [ 1490572800000, 1491004800000 ]
+            ],
+            "week3" : [
+                [ 1478476800000, 1478908800000 ],
+                [ 1480291200000, 1480723200000 ],
+                [ 1483315200000, 1483747200000 ],
+                [ 1485129600000, 1485561600000 ],
+                [ 1486944000000, 1487376000000 ],
+                [ 1489363200000, 1489795200000 ],
+                [ 1491177600000, 1491609600000 ]
+            ]
+        },
+        "menu" : {
+            "week1" : {
+                "monday" : {
+                    "meat" : "Oriental Stir Fried Chicken Noodles. Served with sweetcorn or fresh seasonal salad.",
+                    "non-meat" : "Creamy Macaroni Cheese. Served with sweetcorn or fresh seasonal salad."
+                },
+                "tuesday" : {
+                    "meat" : "Spaghetti Bolognese. Served with green beans or fresh seasonal salad.",
+                    "non-meat" : "Sweet Potato and Lentil Curry served with Rice and Mango Chutney. Served with green beans or fresh seasonal salad."
+                },
+                "wednesday" : {
+                    "meat" : "Roast Pork served with Sage & Onion Stuffing and Roast Potatoes. Served with carrots, cauliflower florets or fresh seasonal salad.",
+                    "non-meat" : "Mushroom Strogonaff. Served with carrots, cauliflower florets or fresh seasonal salad."
+                },
+                "thursday" : {
+                    "meat" : "Moroccan Chicken served on a Bed of Couscous. Served with mixed vegetables or fresh seasonal salad.",
+                    "non-meat" : "Quorn Cottage Pie Topped with Creamy Mash. Served with mixed vegetables or fresh seasonal salad."
+                },
+                "friday" : {
+                    "meat" : "Battered Pollock served with Chips and Tartare Sauce. Served with garden peas or fresh seasonal salad.",
+                    "non-meat" : "Spiced Tomato Pasta with Cheesy Topping. Served with garden peas or fresh seasonal salad."
+                }
+            },
+            "week2" : {
+                "monday" : {
+                    "meat" : "Mediterranean Chicken served with Rice. Served with sweetcorn or fresh seasonal salad.",
+                    "non-meat" : "Quorn Enchilada Pie. Served with sweetcorn or fresh seasonal salad."
+                },
+                "tuesday" : {
+                    "meat" : "Fisherman's Pie Topped with Creamy Mash Potato. Served with green beans or fresh seasonal salad.",
+                    "non-meat" : "Stir Fried Vegetable Noodles with Black Bean Sauce. Served with green beans or fresh seasonal salad."
+                },
+                "wednesday" : {
+                    "meat" : "Roast Beef served with a Yorkshire Pudding and Roast Potatoes. Served with carrots, cauliflower florets or fresh seasonal salad.",
+                    "non-meat" : "Roasted Vegetable Lasagna. Served with carrots, cauliflower florets or fresh seasonal salad."
+                },
+                "thursday" : {
+                    "meat" : "Chicken Tikka Masala served with Rice and Mango Chutney. Served with mixed vegetables or fresh seasonal salad.",
+                    "non-meat" : "Creamy Macaroni Cheese. Served with mixed vegetables or fresh seasonal salad."
+                },
+                "friday" : {
+                    "meat" : "Battered Pollock served with Chips and Tartare Sauce. Served with garden peas or fresh seasonal salad.",
+                    "non-meat" : "Quorn Chilli Topped Nacho Stack. Served with garden peas or fresh seasonal salad."
+                }
+            },
+            "week3" : {
+                "monday" : {
+                    "meat" : "Chicken Jambalaya. Served with sweetcorn or fresh seasonal salad.",
+                    "non-meat" : "Creamy Macaroni Cheese. Served with sweetcorn or fresh seasonal salad."
+                },
+                "tuesday" : {
+                    "meat" : "Sausages served with Fluffy Mash. Served with green beans or fresh seasonal salad.",
+                    "non-meat" : "Sweet and Sour Quorn served with Rice. Served with green beans or fresh seasonal salad."
+                },
+                "wednesday" : {
+                    "meat" : "Roast Chicken served with Sage & Onion Stuffing and Roast Potatoes. Served with carrots, cauliflower florets or fresh seasonal salad.",
+                    "non-meat" : "Roasted Vegetable Pasta Bake. Served with carrots, cauliflower florets or fresh seasonal salad."
+                },
+                "thursday" : {
+                    "meat" : "Traditional Beef Lasagna. Served with mixed vegetables or fresh seasonal salad.",
+                    "non-meat" : "Homemade Cheese and Onion Slice. Served with mixed vegetables or fresh seasonal salad."
+                },
+                "friday" : {
+                    "meat" : "Battered Pollock served with Chips and Tartare Sauce. Served with garden peas or fresh seasonal salad.",
+                    "non-meat" : "Vegetable Curry served with Rice and Mango Chutney. Served with garden peas or fresh seasonal salad."
+                }
+            }
+        }
+    }
+}
