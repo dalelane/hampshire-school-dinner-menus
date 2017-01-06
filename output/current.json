@@ -1,5 +1,6 @@
 {
     "primary" : {
+        "source" : "http://www3.hants.gov.uk/hc3s/hc3s-primary/primarymenu.htm",
         "range" : [ 1477872000000, 1491609600000 ],
         "dates" : {
             "week1" : [
@@ -99,6 +100,7 @@
         }
     },
     "secondary" : {
+        "source" : "http://www3.hants.gov.uk/hc3s/hc3s-secondary/secondary-menu.htm",
         "range" : [ 1477872000000, 1491609600000 ],
         "dates" : {
             "week1" : [
